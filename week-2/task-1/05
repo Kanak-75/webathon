@@ -1,0 +1,10 @@
+1. undefined (Variable Declared but Not Assigned)
+* A variable is declared but not assigned a value.
+* A function without a return statement returns undefined.
+An object property that does not exist is undefined.
+
+           WHILE
+
+2. null (Explicitly Empty Value)
+* null is manually assigned to a variable to indicate "no value" or "empty value".
+* It is an intentional absence of value.
