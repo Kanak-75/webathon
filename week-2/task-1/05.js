@@ -13,5 +13,5 @@ console.log(typeof a);  // Output: "undefined"
 console.log(typeof b);  // Output: "object" (This is a known JavaScript quirk)
 
 // Comparing undefined and null
-console.log(a == b);  // Output: true  (Both are loosely equal)
-console.log(a === b); // Output: false (Strict comparison: different types)
+console.log(a == b);  // Output: true  
+console.log(a === b); // Output: false 
