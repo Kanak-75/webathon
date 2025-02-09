@@ -1,8 +1,0 @@
-Ques. Functions in JavaScript
-Ans~~ Functions in JavaScript are reusable blocks of code designed to perform a specific task. They help in structuring programs, improving code reusability, and reducing redundancy.
-
-Declaring Functions in JavaScript
-1. Function Declaration – Defined using the function keyword with a name. It supports hoisting, meaning it can be called before its declaration.
-2. Function Expression – Assigned to a variable and does not support hoisting.
-3. Arrow Function (ES6) – A concise way to write functions using the => syntax.
-4. Functions with Parameters and Return Values – Can accept arguments and return computed values.
