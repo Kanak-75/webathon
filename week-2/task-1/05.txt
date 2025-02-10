@@ -22,7 +22,7 @@ console.log(test()); // Output: undefined
 
 // Example of null usage
 let person = {
-    name: "John",
+    name: "Kanak",
     age: null // Explicitly setting age to null
 };
 
