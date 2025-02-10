@@ -1,0 +1,33 @@
+
+// Difference between null and undefined in JavaScript
+
+// undefined: A variable is declared but not assigned a value
+let a;
+console.log(a); // Output: undefined
+
+// null: A variable is explicitly assigned the value null
+let b = null;
+console.log(b); // Output: null
+
+// Checking types
+console.log(typeof a); // Output: "undefined"
+console.log(typeof b); // Output: "object" (this is a known JavaScript quirk)
+
+// Example of function returning undefined
+def function test() {
+    let x; // x is declared but not initialized
+    return x;
+}
+console.log(test()); // Output: undefined
+
+// Example of null usage
+let person = {
+    name: "John",
+    age: null // Explicitly setting age to null
+};
+console.log(person.age); // Output: null
+fetch('null_vs_undefined.txt')
+  .then(response => response.text()) // Convert response to text
+  .then(data => console.log(data))  // Output the content of the file
+  .catch(error => console.error('Error loading the file:', error));
+
