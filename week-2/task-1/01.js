@@ -1,3 +1,4 @@
+//1. Write a function that takes an input of item prices and returns the total bill.
 console.log("Welcome to the Total Bill Program!");
 
 function calculateTotalBill(prices) {

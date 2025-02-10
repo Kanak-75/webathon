@@ -1,3 +1,5 @@
+//3.	Find the Largest Number in an Array.
+
 console.log("Find the Largest Number in an Array");
 
 function findLargestNumber(numbers) {

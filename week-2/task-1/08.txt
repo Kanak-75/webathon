@@ -1,3 +1,4 @@
+Q8.	How many loops in JavaScript, and how do they work?
 // JavaScript has several types of loops:
 
 // 1. "for" loop - Used when the number of iterations is known

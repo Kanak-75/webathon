@@ -1,3 +1,4 @@
+Q14.	What are functions in JavaScript, and how do you declare them?
 // 1. Function Declaration (Named Function)
 // A function with a name that can be reused
 function greet(name) {

@@ -1,3 +1,10 @@
+//10.	Wite a program to print pattern.
+		//1 
+        // 1 2  
+        // 1 2 3  
+        // 1 2 3 4  
+        // 1 2 3 4 5  
+
 let n = 5; 
 
 for (let i = 1; i <= n; i++) 

@@ -1,3 +1,4 @@
+Q7.	What is a callback function, and why is it important in JavaScript?
 // A callback function is a function that is passed as an argument to another function
 function greet(name, callback) {
         console.log("Hello, " + name); // Executes first

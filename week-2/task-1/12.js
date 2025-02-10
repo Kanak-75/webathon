@@ -1,3 +1,4 @@
+//12.	Write a function that prints the multiplication table of a number using a while loop.
 function printMultiplicationTable(num)
  {
     let i = 1;

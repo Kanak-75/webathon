@@ -1,4 +1,4 @@
-
+Q5.	Explain the difference between null and undefined in JavaScript.
 // Difference between null and undefined in JavaScript
 
 // undefined: A variable is declared but not assigned a value

@@ -1,3 +1,4 @@
+//2. Convert Temperature (Celsius to Fahrenheit).
 console.log("Temperature Conversion: Celsius to Fahrenheit");
 
 function celsiusToFahrenheit(celsius) {

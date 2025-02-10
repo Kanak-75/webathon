@@ -1,3 +1,4 @@
+//13.	Write a JavaScript function to check if a number is a palindrome.
 function isPalindrome(num) 
 {
     let originalNum = num.toString();
