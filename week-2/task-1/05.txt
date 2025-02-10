@@ -25,9 +25,4 @@ let person = {
     name: "John",
     age: null // Explicitly setting age to null
 };
-console.log(person.age); // Output: null
-fetch('null_vs_undefined.txt')
-  .then(response => response.text()) // Convert response to text
-  .then(data => console.log(data))  // Output the content of the file
-  .catch(error => console.error('Error loading the file:', error));
 
